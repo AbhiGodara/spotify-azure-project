@@ -1,0 +1,9 @@
+{
+	"name": "data-factory-spotify-project",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "406cd852-77fd-4abf-a79e-1737fdcb0c20",
+		"tenantId": "252f4fcc-2a03-43e0-bd51-716f29577ca8"
+	}
+}
